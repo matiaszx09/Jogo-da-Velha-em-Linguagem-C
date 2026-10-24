@@ -1,4 +1,4 @@
-# Trabalho Pratico 03 - Grupo 2
+# JOGO DA VELHA EM LINGUAGEM C
 Este projeto implementa um jogo da velha (3x3) em linguagem C, jogado no terminal, no qual um jogador humano enfrenta o computador.  
 O computador utiliza o algoritmo Minimax, tornando-o invencível, ou seja, o jogador humano nunca conseguirá vencer caso o computador jogue de forma ideal.
 
